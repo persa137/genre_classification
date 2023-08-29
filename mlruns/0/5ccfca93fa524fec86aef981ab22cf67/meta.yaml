@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/5ccfca93fa524fec86aef981ab22cf67/artifacts
+end_time: 1693272194432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ccfca93fa524fec86aef981ab22cf67
+run_name: illustrious-lark-772
+run_uuid: 5ccfca93fa524fec86aef981ab22cf67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693272193144
+status: 4
+tags: []
+user_id: mpersaud

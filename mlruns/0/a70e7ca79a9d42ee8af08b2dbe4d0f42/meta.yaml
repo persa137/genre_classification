@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/a70e7ca79a9d42ee8af08b2dbe4d0f42/artifacts
+end_time: 1693272932392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a70e7ca79a9d42ee8af08b2dbe4d0f42
+run_name: flawless-whale-11
+run_uuid: a70e7ca79a9d42ee8af08b2dbe4d0f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693272930912
+status: 4
+tags: []
+user_id: mpersaud

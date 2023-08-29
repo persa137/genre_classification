@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/792779c9a3aa468f90434d2638420915/artifacts
+end_time: 1693272845248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 792779c9a3aa468f90434d2638420915
+run_name: dapper-shrimp-569
+run_uuid: 792779c9a3aa468f90434d2638420915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693272843774
+status: 4
+tags: []
+user_id: mpersaud

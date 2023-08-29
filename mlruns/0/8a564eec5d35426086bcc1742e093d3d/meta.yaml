@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/8a564eec5d35426086bcc1742e093d3d/artifacts
+end_time: 1693272764003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a564eec5d35426086bcc1742e093d3d
+run_name: orderly-hog-659
+run_uuid: 8a564eec5d35426086bcc1742e093d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693272762514
+status: 4
+tags: []
+user_id: mpersaud

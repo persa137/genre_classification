@@ -1,0 +1,31 @@
+{
+    "os": "macOS-13.5-arm64-arm-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-08-29T01:52:21.376029",
+    "startedAt": "2023-08-29T01:52:20.862711",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/persa137/genre_classification.git",
+        "commit": "12f5b08923c76d84001595ef1051280e2100deb1"
+    },
+    "email": "mpersaud@verto.ca",
+    "root": "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification",
+    "host": "Martin-Persaud-MacBook-Pro.local",
+    "username": "mpersaud",
+    "executable": "/opt/homebrew/Caskroom/miniconda/base/envs/mlflow-11da93b02824ee1dba313acd77336e6a59130c17/bin/python"
+}

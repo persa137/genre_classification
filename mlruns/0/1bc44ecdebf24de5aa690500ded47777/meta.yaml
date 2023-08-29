@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/1bc44ecdebf24de5aa690500ded47777/artifacts
+end_time: 1693272628371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bc44ecdebf24de5aa690500ded47777
+run_name: spiffy-mouse-113
+run_uuid: 1bc44ecdebf24de5aa690500ded47777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693272626781
+status: 4
+tags: []
+user_id: mpersaud

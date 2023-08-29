@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/a6d25c17999f490090b2c48a921307fa/artifacts
+end_time: 1693273967560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a6d25c17999f490090b2c48a921307fa
+run_uuid: a6d25c17999f490090b2c48a921307fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693273957101
+status: 3
+tags: []
+user_id: mpersaud

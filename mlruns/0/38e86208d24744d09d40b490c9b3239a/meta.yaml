@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/38e86208d24744d09d40b490c9b3239a/artifacts
+end_time: 1693273562547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e86208d24744d09d40b490c9b3239a
+run_name: likeable-stag-241
+run_uuid: 38e86208d24744d09d40b490c9b3239a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693273561056
+status: 4
+tags: []
+user_id: mpersaud

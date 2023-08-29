@@ -1,0 +1,27 @@
+{
+    "os": "macOS-13.5-arm64-arm-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-08-29T01:54:05.109115",
+    "startedAt": "2023-08-29T01:54:04.543360",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/evaluate/run.py",
+    "codePath": "evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/persa137/genre_classification.git",
+        "commit": "12f5b08923c76d84001595ef1051280e2100deb1"
+    },
+    "email": "mpersaud@verto.ca",
+    "root": "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification",
+    "host": "Martin-Persaud-MacBook-Pro.local",
+    "username": "mpersaud",
+    "executable": "/opt/homebrew/Caskroom/miniconda/base/envs/mlflow-880d415a0d35bf3d32a6c73256dfc7802381c774/bin/python"
+}

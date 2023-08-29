@@ -1,0 +1,35 @@
+{
+    "os": "macOS-13.5-arm64-arm-64bit",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-08-29T01:53:01.457638",
+    "startedAt": "2023-08-29T01:53:00.922138",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/outputs/2023-08-28/21-52-19/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/random_forest/run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/persa137/genre_classification.git",
+        "commit": "12f5b08923c76d84001595ef1051280e2100deb1"
+    },
+    "email": "mpersaud@verto.ca",
+    "root": "/Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification",
+    "host": "Martin-Persaud-MacBook-Pro.local",
+    "username": "mpersaud",
+    "executable": "/opt/homebrew/Caskroom/miniconda/base/envs/mlflow-8dc21fe89bd607c320d0ea93e140538b40bf664c/bin/python"
+}

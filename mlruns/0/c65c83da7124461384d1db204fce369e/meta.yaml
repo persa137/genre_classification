@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/c65c83da7124461384d1db204fce369e/artifacts
+end_time: 1693274055382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c65c83da7124461384d1db204fce369e
+run_name: illustrious-worm-353
+run_uuid: c65c83da7124461384d1db204fce369e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693273938288
+status: 3
+tags: []
+user_id: mpersaud

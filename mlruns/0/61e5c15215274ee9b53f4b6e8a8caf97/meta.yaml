@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mpersaud/Desktop/Udacity_MLOps/udacity_repo/genre_classification/mlruns/0/61e5c15215274ee9b53f4b6e8a8caf97/artifacts
+end_time: 1693271853005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61e5c15215274ee9b53f4b6e8a8caf97
+run_name: aged-bear-493
+run_uuid: 61e5c15215274ee9b53f4b6e8a8caf97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693271851705
+status: 4
+tags: []
+user_id: mpersaud
